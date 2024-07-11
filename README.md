@@ -50,15 +50,6 @@ This project demonstrates the implementation of a microservices architecture by 
 - [Eureka Server](https://github.com/Bilibri23/Service-registry.git)
 - [API Gateway](https://github.com/Bilibri23/api-gateway.git)
 
-## Getting Started
-
-### Prerequisites
-
-- JDK 17 or higher
-- PostgreSQL
-- Postman
-- Maven
-
 
 Set up the databases:
     - Configure PostgreSQL with the necessary databases for the Quiz and Question Services.
@@ -69,13 +60,7 @@ Set up the databases:
 - You can perform CRUD operations on the questions via the Question Service.
 - You can submit quiz responses via the Quiz Service and receive the score.
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (git checkout -b feature/AmazingFeature)
-3. Commit your changes (git commit -m 'Add some AmazingFeature')
-4. Push to the branch (git push origin feature/AmazingFeature)
-5. Open a pull request
 
 ## License
 
